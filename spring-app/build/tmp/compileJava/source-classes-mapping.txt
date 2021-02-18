@@ -1,0 +1,50 @@
+in/co/genotypic/GTSO6793/genefeature/GeneFeatureController.java
+ in.co.genotypic.GTSO6793.genefeature.GeneFeatureController
+in/co/genotypic/GTSO6793/Gtso6793Application.java
+ in.co.genotypic.GTSO6793.Gtso6793Application
+in/co/genotypic/GTSO6793/sequence/SequenceRepositry.java
+ in.co.genotypic.GTSO6793.sequence.SequenceRepositry
+in/co/genotypic/GTSO6793/genefeature/GeneFeatureRepository.java
+ in.co.genotypic.GTSO6793.genefeature.GeneFeatureRepository
+in/co/genotypic/GTSO6793/genefeature/GeneFeature.java
+ in.co.genotypic.GTSO6793.genefeature.GeneFeature
+in/co/genotypic/GTSO6793/gene/GeneRepository.java
+ in.co.genotypic.GTSO6793.gene.GeneRepository
+in/co/genotypic/GTSO6793/gene/Gene.java
+ in.co.genotypic.GTSO6793.gene.Gene
+in/co/genotypic/GTSO6793/sequence/Sequence.java
+ in.co.genotypic.GTSO6793.sequence.Sequence
+in/co/genotypic/GTSO6793/annotation/AnnotationController.java
+ in.co.genotypic.GTSO6793.annotation.AnnotationController
+in/co/genotypic/GTSO6793/security/JwtUtil.java
+ in.co.genotypic.GTSO6793.security.JwtUtil
+in/co/genotypic/GTSO6793/annotation/Annotation.java
+ in.co.genotypic.GTSO6793.annotation.Annotation
+in/co/genotypic/GTSO6793/sequence/SequenceController.java
+ in.co.genotypic.GTSO6793.sequence.SequenceController
+in/co/genotypic/GTSO6793/protein/ProteinRepository.java
+ in.co.genotypic.GTSO6793.protein.ProteinRepository
+in/co/genotypic/GTSO6793/protein/ProteinController.java
+ in.co.genotypic.GTSO6793.protein.ProteinController
+in/co/genotypic/GTSO6793/gene/GeneController.java
+ in.co.genotypic.GTSO6793.gene.GeneController
+in/co/genotypic/GTSO6793/protein/Protein.java
+ in.co.genotypic.GTSO6793.protein.Protein
+in/co/genotypic/GTSO6793/annotation/AnnotationRepository.java
+ in.co.genotypic.GTSO6793.annotation.AnnotationRepository
+in/co/genotypic/GTSO6793/user/UserRepository.java
+ in.co.genotypic.GTSO6793.user.UserRepository
+in/co/genotypic/GTSO6793/security/JwtRequestFilter.java
+ in.co.genotypic.GTSO6793.security.JwtRequestFilter
+in/co/genotypic/GTSO6793/security/SecurityConfig.java
+ in.co.genotypic.GTSO6793.security.SecurityConfig
+in/co/genotypic/GTSO6793/user/User.java
+ in.co.genotypic.GTSO6793.user.User
+in/co/genotypic/GTSO6793/security/SwdUserDetailsService.java
+ in.co.genotypic.GTSO6793.security.SwdUserDetailsService
+in/co/genotypic/GTSO6793/user/SignupRequest.java
+ in.co.genotypic.GTSO6793.user.SignupRequest
+in/co/genotypic/GTSO6793/user/LoginRequest.java
+ in.co.genotypic.GTSO6793.user.LoginRequest
+in/co/genotypic/GTSO6793/user/UserController.java
+ in.co.genotypic.GTSO6793.user.UserController
